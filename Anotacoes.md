@@ -8,4 +8,4 @@
 #### Placa mãe
 #### Gabinete
 #### Cooler
-#### 
+Não lembro mais
