@@ -4,8 +4,7 @@
 
 #### CPU - Processador
 #### Placa de vídeo
-#### HD
 #### Placa mãe
 #### Gabinete
 #### Cooler
-#### 
+#### HD
